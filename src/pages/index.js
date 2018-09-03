@@ -41,6 +41,7 @@ const Index = ({ data }) => {
           <span>🎉</span>
         </PageTitle>
         <CardList>
+          <p>
           {posts.map(({ node: post }) => (
             <Card
               key={post.id}
@@ -51,6 +52,7 @@ const Index = ({ data }) => {
               excerpt={post.body}
             />
           ))}
+          </p>
         </CardList>
       </Container>
     </Layout>
