@@ -4,17 +4,9 @@ import firebase from 'firebase';
 
 export const initializeFirebase = () => {
 
-
-  var config = {
-    apiKey: "AIzaSyACaL6qsfIAgQ1QUCWhPmyn76D1UL54VmA",
-    authDomain: "push-test-de5c2.firebaseapp.com",
-    databaseURL: "https://push-test-de5c2.firebaseio.com",
-    projectId: "push-test-de5c2",
-    storageBucket: "push-test-de5c2.appspot.com",
-    messagingSenderId: "824440442769"
-  };
-
-  firebase.initializeApp(config);
+  console.log("initialize")
+  
+  firebase.initializeApp({messagingSenderId: "824440442769"});
 
 
 }
