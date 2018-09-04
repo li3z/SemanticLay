@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{160:function(i,n,e){"use strict";e.r(n),e(54);var t={menu:{position:"fixed",display:"flex",flexDirection:"column",top:0,bottom:0,left:0,width:250,background:"#1B1C1D",overflowX:"hidden"}};t.sidebarMain={marginLeft:250,minWidth:parseInt(250,10)+300},t.main=Object.assign({},t.sidebarMain,{maxWidth:parseInt(250,10)+900}),n.default=t}}]);
+//# sourceMappingURL=component---src-pages-style-js-f4c678bfe1ad427911f4.js.map

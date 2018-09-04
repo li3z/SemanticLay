@@ -4,8 +4,8 @@
 <url> <loc>https://gcn.netlify.com/a-walk-in-the-park/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gcn.netlify.com/sailing-around-the-bay/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gcn.netlify.com/puppies/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://gcn.netlify.com/about-2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gcn.netlify.com/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gcn.netlify.com/about-2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gcn.netlify.com/tag/fun/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gcn.netlify.com/tag/play/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gcn.netlify.com/tag/obedient/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -13,4 +13,5 @@
 <url> <loc>https://gcn.netlify.com/tag/cute/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gcn.netlify.com/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gcn.netlify.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gcn.netlify.com/lay/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
